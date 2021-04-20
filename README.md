@@ -1,4 +1,4 @@
-👋 Hi, I’m Ugur Oguz.
+👋 Hi.
 - 🚀 I'm open for new opportunities.
 - 👀 I’m interested in Backend Development roles.
 - 🌱 I’m currently learning Spring Boot.
