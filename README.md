@@ -1,4 +1,4 @@
-👋 Hi, I’m Ugur Oguz Graduated from Griffith College in MSc. Big Data Management and Analytics. 
+👋 Hi, I’m Ugur Oguz.
 - 🚀 I'm open for new opportunities.
 - 👀 I’m interested in Backend Development roles.
 - 🌱 I’m currently learning Spring Boot.
